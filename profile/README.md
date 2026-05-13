@@ -17,7 +17,7 @@ Based in Germany · [abigroup.io](https://abigroup.io) · [hello@abigroup.io](ma
 
 ## Open source
 
-Battle‑tested libraries pulled out of real systems. ~1M monthly npm downloads across our packages.
+Battle‑tested libraries pulled out of real systems.
 
 | Project | What it is |
 | --- | --- |
