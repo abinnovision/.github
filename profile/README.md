@@ -1,4 +1,4 @@
-# abi group
+# Hey there! 👋 We're abi group.
 
 **We build software products and engineer systems for ambitious founders.**
 
