@@ -27,7 +27,6 @@ Battle‑tested libraries pulled out of real systems.
 | [js-commons](https://github.com/abinnovision/js-commons) | Shared ESLint, Prettier, and tooling configs for our JS/TS stack. |
 | [nestjs-commons](https://github.com/abinnovision/nestjs-commons) | Reusable building blocks for NestJS services. |
 | [react-commons](https://github.com/abinnovision/react-commons) | Reusable building blocks for React apps. |
-| [simple-redirects](https://github.com/abinnovision/simple-redirects) | A tiny, declarative redirect server in Go. |
 | [github-workflow-dispatch-proxy](https://github.com/abinnovision/github-workflow-dispatch-proxy) | Authenticated proxy for GitHub Actions' `workflow_dispatch`. |
 
 Browse the full list in [Repositories →](https://github.com/orgs/abinnovision/repositories?type=public)
